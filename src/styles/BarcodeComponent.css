@@ -1,0 +1,44 @@
+.barcode-container {
+  text-align: center;
+  box-shadow: -5px 5px 5px 0px rgba(0,0,0,0.5);
+  background-color: #FFFFFF;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 3px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+}
+  
+  h1 {
+    color: #414956;
+  }
+  
+  .barcode-container .download-btn {
+    background-color: #006193;
+    color: #FFFFFF;
+    margin: 10px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+
+  .barcode-container .update-btn {
+    background-color: #4AA00F;
+    color: #FFFFFF;
+    margin: 10px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .barcode-container .home-btn {
+    background-color: #B72F2A;
+    color: #FFFFFF;
+    margin: 10px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
